@@ -20,7 +20,7 @@ ipython
 ```
 ### In the Ipython interactive command line, go to your working directory (with the animation file and snapshot.traj) and run the animation file:
 ```
-run -i AnimateTrajectory_py3.py
+run -i AnimateTrajectory_py3.py   (other .py files are for larger size simulation trajs or tension/actin visualization only)
 ```
 ### Visualize the snapshot you are interested in (recommended, 10 as example):
 ```
